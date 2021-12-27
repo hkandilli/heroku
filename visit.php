@@ -119,7 +119,9 @@ $urls = array (
   array("gamesports","http://kandillihamit.pserver.ru/gamesports/index.php"),
   array("gamesports","http://kandillihamit.pserver.ru/gamesports/index.php"),
   array("gamesports","http://kandillihamit.pserver.ru/gamesports/index.php"),
-  array("gamesports","http://kandillihamit.pserver.ru/gamesports/index.php"),
+  array("gamesports","http://kandillihamit.pserver.ru/gamesports/index.php")
+    
+    
 );
 $st = count($urls);
 //echo "Start ht";
